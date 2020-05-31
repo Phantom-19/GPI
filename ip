@@ -66,10 +66,10 @@ while True:
 \033[1;97m║\033[1;96mOrganisation           \033[1;91m:\033[1;97m {}
 \033[1;97m╚═══════════════════════════════════════╝
 """.format(javas['ip'],javas['city'],javas['region'],javas['region_code'],javas['country'],javas['country_name'],javas['continent_code'],javas['latitude'],javas['longitude'],javas['timezone'],javas['country_calling_code'],javas['currency'],javas['languages'],javas['org']))
-print ("\033[1;97m╔═════════════════════════════════════════════╗")
-print ("\033[1;97m║\033[1;91m[\033[1;93m**\033[1;91m]\033[38;5;95m      Developpeur \033[1;97m:\033[38;5;214m  Faxel           \033[1;91m[\033[1;93m**\033[1;91m]\033[1;97m║")
-print ("\033[1;97m╚═════════════════════════════════════════════╝")
-raw_input("\n\033[1;97m Taper entrer")
+                print ("\033[1;97m╔═════════════════════════════════════════════╗")
+                print ("\033[1;97m║\033[1;91m[\033[1;93m**\033[1;91m]\033[38;5;95m      Developpeur \033[1;97m:\033[38;5;214m  Faxel           \033[1;91m[\033[1;93m**\033[1;91m]\033[1;97m║")
+                print ("\033[1;97m╚═════════════════════════════════════════════╝")
+                raw_input("\n\033[1;97m Taper entrer")
 
         except KeyError:
 
