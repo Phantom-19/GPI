@@ -42,9 +42,8 @@ print("""\033[1;91m
 while True:
 	try:
 		requis=requests.get('https://ipapi.co/json/')
-		
                 print("\033[1;97m Voici votre IP public\033[1;91m : \033[1;92m",requis.json()['ip'])
-		Streets("\n\033[1;97m Entrer un IP pour obtenir la localisation parfaite")
+		Street("\n\033[1;97m Entrer un IP pour obtenir la localisation parfaite")
                 Demande=raw_input("\033[1;97m Entrer \033[1;91m : \033[1;95m")
 		requi=requests.get('https://ipapi.co/'+Demande+'/json')
 		javas=json.loads(requi.text)
@@ -73,7 +72,7 @@ while True:
 
         except KeyError:
 
-		Street("\n\033[1;97m Idresse IP\033[1;91m :\033[1;91m",Demande,"\033[1;97mINVALIDE\n")
+		print("\n\033[1;97m Idresse IP\033[1;91m :\033[1;91m",Demande,"\033[1;97mINVALIDE\n")
                 print ("\033[1;97m╔═════════════════════════════════════════════╗")
                 print ("\033[1;97m║\033[1;91m[\033[1;93m**\033[1;91m]\033[38;5;95m      Developpeur \033[1;97m:\033[38;5;214m  Faxel           \033[1;91m[\033[1;93m**\033[1;91m]\033[1;97m║")
                 print ("\033[1;97m╚═════════════════════════════════════════════╝")
