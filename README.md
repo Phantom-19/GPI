@@ -53,7 +53,10 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/GPI.git`
 * `cd GPI`
-## ` Execution > ` `python3 proxy`
+## ` Execution > ` `python3 proxy` 
+
+## ` NOM D'UTILISATEUR : Faxel    `
+## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique de GPI`:
 ```
