@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Hôte" src="https://raw.githubusercontent.com/phantom-19/haut/master/trackip.png"></a>
+<a href="#"><img alt="profile pic" width="600px" src="https://github.com/Phantom-19/Border/blob/master/capture/fax1.png"/></a>
 </p>
 <p align="center">
 <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
@@ -53,14 +53,14 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/GPI.git`
 * `cd GPI`
-## ` Execution > ` `python3 proxy` 
+## ` Execution > ` `python3 proxy.py` 
 
 ## ` NOM D'UTILISATEUR : Faxel    `
 ## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique de GPI`:
 ```
-apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 proxy
+apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 proxy.py
 ```
 ##  `Aperçue`:
 
