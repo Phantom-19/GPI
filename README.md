@@ -13,11 +13,11 @@
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
-<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/GPI??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/GPI??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/GPI?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?"></a>
+<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
+<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/GPI??color=red"></a>
+<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/GPI??color=red"></a>
+<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/GPI?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -53,14 +53,14 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/GPI.git`
 * `cd GPI`
-## ` Execution > ` `python2 proxy.py` 
+## ` Execution > ` `python3 proxy.py` 
 
 ## ` NOM D'UTILISATEUR : Faxel    `
 ## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique de GPI`:
 ```
-apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python2 proxy.py
+apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 proxy.py
 ```
 ##  `Aperçue`:
 
