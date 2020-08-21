@@ -53,14 +53,14 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/GPI.git`
 * `cd GPI`
-## ` Execution > ` `python3 proxy.py` 
+## ` Execution > ` `python2 proxy.py` 
 
 ## ` NOM D'UTILISATEUR : Faxel    `
 ## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique de GPI`:
 ```
-apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 proxy.py
+apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python2 proxy.py
 ```
 ##  `Aperçue`:
 
@@ -70,6 +70,7 @@ apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 
 </p>
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
+
 ## `Retrouvez moi sur` :
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
 [![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL)
