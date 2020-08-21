@@ -66,7 +66,7 @@ apt update ; git clone https://github.com/Phantom-19/GPI.git ; cd GPI ; python3 
 
 <p align="center">
 <img alt="profile pic" width="500px" src="https://github.com/Phantom-19/GPI/blob/master/capture/pro.png"/> 
-<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/GPI/blob/master/capture/pro2.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/GPI/blob/master/capture/proxy.png"/> 
 </p>
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
